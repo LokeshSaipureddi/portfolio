@@ -1,16 +1,21 @@
 # ML Engineer
 
-#### Programming and frameworks: Python (NumPy, Pandas, Matplotlib, Flask), Java, C++, C, JavaScript, PyTorch, TensorFlow, Keras, CUDA, Scikit-Learn, OpenCV, NLTK, RLlib, TRL, Streamlit, Langchain, Langgraph, FastAPI, OpenAI Gym  
-#### Data Analysis and techniques: Exploratory Data Analysis, Image Captioning, Similarity Matching, Speech Recognition  
-#### Database and deployment tools: PostgreSQL, MySQL, MongoDB, Neo4j, Pinecone, Milvus, Chroma, Linux, Docker, Google Cloud Platform, Apache Airflow, RabbitMQ  
+## Skills
+
+**Languages:** Python, Java, C++, C, Javascript, SQL
+**Libraries & Frameworks:** PyTorch, Tensorflow, Keras, Cuda, Scikit-Learn, NumPy, Pandas, OpenCV , NLTK, RLlib, TRL
+Matplotlib, Flask, Spacy, Langchain, Langgraph, Streamlit, FastAPI, Open AI Gym
+**Databases:** PostgreSql, MySQL, Mongodb, Neo4j, Pinecone, Milvus, Chroma
+**Tools and Technologies:** Version control system, Linux, Docker, Google Cloud Platform, Apache Airflow, RabbitMQ
 
 ## Education
-- **M.S., Artificial Intelligence** | Northeastern University (_Sep 2023_-_Dec 2025_)  
-  - Coursework: Pattern Recognition and Computer Vision, Foundations of AI, Algorithms, Programming Design Paradigm  
-  - CGPA: 3.94/4.0  
-- **B.Tech., Computer Science and Engineering** | Amrita Vishwa Vidyapeetham (_Jul 2019_-_Jun 2023_)  
-  - Related Courses: Neural Networks and Deep Learning, Linear Algebra, Probability, Machine Learning  
-  - CGPA: 8.1/10  
+
+**M.S, Artificial Intelligence** | Northeastern University (_Sep 2023_-_Dec 2025_)  
+- Coursework: Pattern Recognition and Computer Vision, Foundations of AI, Algorithms, Programming Design Paradigm  
+- CGPA: 3.94/4.0  
+**B.Tech, Computer Science and Engineering** | Amrita Vishwa Vidyapeetham (_Jul 2019_-_Jun 2023_)  
+- Related Courses: Neural Networks and Deep Learning, Linear Algebra, Probability, Machine Learning  
+- CGPA: 8.1/10  
 
 ## Experience
 
