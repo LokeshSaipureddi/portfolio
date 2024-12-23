@@ -30,25 +30,27 @@
 
 ## Projects
 
-### AI-Driven Image Enhancement Using Generative AI  
+**AI-Driven Image Enhancement Using Generative AI**
 - Developed an AI-powered image enhancement platform using Hugging Face's Stable Diffusion XL for background generation and ESRGAN for super-resolution.  
 - Integrated YOLO model to extract positional coordinates of objects in images.  
 - Applied reinforcement learning with VIZIT Score for quality assessment, achieving a 25% improvement in image quality.  
 
-### Multimodal RAG Platform: AI-Powered Financial Document Analysis and Querying  
+**Multimodal RAG Platform: AI-Powered Financial Document Analysis and Querying**  
 - Built a Multimodal RAG pipeline for financial document processing using OpenAI LLM with LangChain for querying.  
 - Integrated Unstructured for PDF content extraction, ChromaDB for embedding storage, and developed a Streamlit frontend for real-time chat, summarization, and report generation.  
 - Added RLHF with reward-model-deberta-v3-base, using user feedback to fine-tune the reward model for better responses.  
 
-### An Agentic RAG-Based Research Assistant System  
+**An Agentic RAG-Based Research Assistant System**  
 - Developed a system integrating web search and ArXiv to dynamically retrieve and synthesize research data, utilizing Pinecone for similarity search and AWS S3 for document storage.  
 - Automated document parsing and indexing workflows using Airflow, leveraging FastAPI for backend development.  
 - Built a user-friendly interface using Streamlit, enabling seamless interaction with research data and generating PDF reports.  
 
 ## Research Publications  
 
-### [An Intelligent Computation Model with DMD Features for COVID Detection](https://www.researchgate.net/publication/375128815_An_Intelligent_Computational_Model_with_Dynamic_Mode_Decomposition_and_Attention_Features_for_COVID-19_Detection_from_CT_Scan_Images) | Soft Computing Journal  
+**An Intelligent Computation Model with DMD Features for COVID Detection** | 
+[Soft Computing Journal](https://www.researchgate.net/publication/375128815_An_Intelligent_Computational_Model_with_Dynamic_Mode_Decomposition_and_Attention_Features_for_COVID-19_Detection_from_CT_Scan_Images)  
 - Research leveraging dynamic mode decomposition and attention features for detecting COVID-19 from CT scan images.  
 
-### [Deep Feature-Based COVID Detection Using SVM](https://www.researchgate.net/publication/363883131_Deep_Feature-Based_COVID_Detection_from_CT_Scan_Images_Using_Support_Vector_Machine) | ICICC Conference  
+**Deep Feature-Based COVID Detection Using SVM** | 
+[ICICC Conference](https://www.researchgate.net/publication/363883131_Deep_Feature-Based_COVID_Detection_from_CT_Scan_Images_Using_Support_Vector_Machine)
 - Research focused on detecting COVID-19 using deep feature analysis and support vector machines.
