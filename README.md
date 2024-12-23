@@ -1,4 +1,4 @@
-# AI Engineer
+# ML Engineer
 
 #### Programming and frameworks: Python (NumPy, Pandas, Matplotlib, Flask), Java, C++, C, JavaScript, PyTorch, TensorFlow, Keras, CUDA, Scikit-Learn, OpenCV, NLTK, RLlib, TRL, Streamlit, Langchain, Langgraph, FastAPI, OpenAI Gym  
 #### Data Analysis and techniques: Exploratory Data Analysis, Image Captioning, Similarity Matching, Speech Recognition  
