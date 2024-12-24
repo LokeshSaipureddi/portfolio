@@ -49,14 +49,30 @@ Matplotlib, Flask, Spacy, Langchain, Langgraph, Streamlit, FastAPI, Open AI Gym 
 **An Agentic RAG-Based Research Assistant System**  
 - Developed a system integrating web search and ArXiv to dynamically retrieve and synthesize research data, utilizing Pinecone for similarity search and AWS S3 for document storage.  
 - Automated document parsing and indexing workflows using Airflow, leveraging FastAPI for backend development.  
-- Built a user-friendly interface using Streamlit, enabling seamless interaction with research data and generating PDF reports.  
+- Built a user-friendly interface using Streamlit, enabling seamless interaction with research data and generating PDF reports.
+
+**CNN-Powered Image Restoration with PyTorch**
+- Implemented a CNN-based colorization algorithm to convert grayscale images to color, utilizing Lab color space and intensity
+  channel (L) for training the model to find the ab color spaces using the intensity channel L.
+- Optimized model performance with data augmentation, hyperparameter tuning, and fine-tuning pre-trained network, achieving an
+  accuracy of 73%, MSE of 24, and SSIM of 0.78 indicating high-quality color reproduction.
+
+**Generation of Human motion video from text**
+- Gathered text-to-motion datasets from AMASS database, transformed the data to 3D motion representation using SMPL model
+- Utilized the CLIP model to associate the image with the text and used a transformer encoder to process these features
+- Developed a classifier-free diffusion model to generate videos from the features and achieved an FID score of 58%
 
 ## Research Publications  
 
 **An Intelligent Computation Model with DMD Features for COVID Detection** | 
 [Soft Computing Journal](https://www.researchgate.net/publication/375128815_An_Intelligent_Computational_Model_with_Dynamic_Mode_Decomposition_and_Attention_Features_for_COVID-19_Detection_from_CT_Scan_Images)  
-- Research leveraging dynamic mode decomposition and attention features for detecting COVID-19 from CT scan images.  
+- Proposed a Shallow CNN for detecting COVID-19 with CT Scan images
+- Attained an accuracy of 78.6% to Transfer learning models with only 300866 trainable parameters  
+- Boosted the accuracy to 92.3% with the help of Attention-driven dynamic mode decomposition processing and parametric tuning 
 
 **Deep Feature-Based COVID Detection Using SVM** | 
 [ICICC Conference](https://www.researchgate.net/publication/363883131_Deep_Feature-Based_COVID_Detection_from_CT_Scan_Images_Using_Support_Vector_Machine)
-- Research focused on detecting COVID-19 using deep feature analysis and support vector machines.
+- Developed a pipeline for COVID-19 detection using machine learning models, leveraging transfer learned features from ResNet 50, Inception V3, and Efficient b7 on CT scan images
+- Extracted the features from the last convolution layers of deep learning models, fed these features to ml models for classification
+- Achieved an accuracy of 86.12% using a combination of InceptionV3 and SVM, with precision and recall of 83.11% and 80.44%
+
