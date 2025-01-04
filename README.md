@@ -41,7 +41,7 @@ Matplotlib, Flask, Spacy, Langchain, Langgraph, Streamlit, FastAPI, Open AI Gym 
 - Integrated YOLO model to extract positional coordinates of objects in images.  
 - Applied reinforcement learning with VIZIT Score for quality assessment, achieving a 25% improvement in image quality.  
 
-**Multimodal RAG Platform: AI-Powered Financial Document Analysis and Querying**  
+**Multimodal RAG Platform: AI-Powered Financial Document Analysis and Querying** | [Link](https://github.com/LokeshSaipureddi/Multi-Modal-RAG)
 - Built a Multimodal RAG pipeline for financial document processing using OpenAI LLM with LangChain for querying.  
 - Integrated Unstructured for PDF content extraction, ChromaDB for embedding storage, and developed a Streamlit frontend for real-time chat, summarization, and report generation.  
 - Added RLHF with reward-model-deberta-v3-base, using user feedback to fine-tune the reward model for better responses.  
