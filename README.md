@@ -1,4 +1,4 @@
-# ML Engineer
+# AI Engineer
 
 ## Skills
 
@@ -36,20 +36,23 @@ Matplotlib, Flask, Spacy, Langchain, Langgraph, Streamlit, FastAPI, Open AI Gym 
 
 ## Projects
 
-**AI-Driven Image Enhancement Using Generative AI**
-- Developed an AI-powered image enhancement platform using Hugging Face's Stable Diffusion XL for background generation and ESRGAN for super-resolution.  
-- Integrated YOLO model to extract positional coordinates of objects in images.  
-- Applied reinforcement learning with VIZIT Score for quality assessment, achieving a 25% improvement in image quality.  
+ **LearnLab : Agentic AI Learning and Evaluation System**
+- Developed LearnLab, an intelligent platform that transforms static PDFs into interactive learning materials, including two-person podcasts, flashcards, quizzes, and professional blog   posts, using LangGraph with semantic chunking.
+- Built the backend with FastAPI, implementing JWT authentication and API endpoint protection, while the frontend is powered by Next.js for a seamless user experience.
+  Managed infrastructure with Terraform and Docker containers, ensuring scalable and efficient deployments.
+- Integrated CI/CD pipelines using GitHub Actions, automating testing and deployment of images on DockerHub and Google Cloud Platform (GCP).
+- Deployed on GCP VMs, utilizing GCP Cloud Buckets for storage and Airflow for orchestrating document processing timelines.
+
+**Image Processing Application** | [Link](https://github.com/LokeshSaipureddi/Image-Processing-Application)
+- Developed a versatile Image Manipulation and Enhancement app following MVC architecture, offering features like image visualization, flipping, brightness adjustment, channel       
+  manipulation, and enhancements.
+- Implemented an accessible application with a user-friendly GUI and a text-based scripting interface.
+- Implemented batch processing and undo/redo functionalities, leading to a significant 40% time-saving for repetitive tasks. 
 
 **Multimodal RAG Platform: AI-Powered Financial Document Analysis and Querying** | [Link](https://github.com/LokeshSaipureddi/Multi-Modal-RAG)
 - Built a Multimodal RAG pipeline for financial document processing using OpenAI LLM with LangChain for querying.  
 - Integrated Unstructured for PDF content extraction, ChromaDB for embedding storage, and developed a Streamlit frontend for real-time chat, summarization, and report generation.  
 - Added RLHF with reward-model-deberta-v3-base, using user feedback to fine-tune the reward model for better responses.  
-
-**An Agentic RAG-Based Research Assistant System**  
-- Developed a system integrating web search and ArXiv to dynamically retrieve and synthesize research data, utilizing Pinecone for similarity search and AWS S3 for document storage.  
-- Automated document parsing and indexing workflows using Airflow, leveraging FastAPI for backend development.  
-- Built a user-friendly interface using Streamlit, enabling seamless interaction with research data and generating PDF reports.
 
 **CNN-Powered Image Restoration with PyTorch**
 - Implemented a CNN-based colorization algorithm to convert grayscale images to color, utilizing Lab color space and intensity
